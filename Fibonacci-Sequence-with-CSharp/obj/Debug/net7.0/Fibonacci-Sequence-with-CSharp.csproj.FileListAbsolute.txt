@@ -1,0 +1,15 @@
+C:\Users\yavuz\OneDrive\Belgeler\GitHub\Fibonacci-Sequence-with-CSharp\Fibonacci-Sequence-with-CSharp\bin\Debug\net7.0\Fibonacci-Sequence-with-CSharp.exe
+C:\Users\yavuz\OneDrive\Belgeler\GitHub\Fibonacci-Sequence-with-CSharp\Fibonacci-Sequence-with-CSharp\bin\Debug\net7.0\Fibonacci-Sequence-with-CSharp.deps.json
+C:\Users\yavuz\OneDrive\Belgeler\GitHub\Fibonacci-Sequence-with-CSharp\Fibonacci-Sequence-with-CSharp\bin\Debug\net7.0\Fibonacci-Sequence-with-CSharp.runtimeconfig.json
+C:\Users\yavuz\OneDrive\Belgeler\GitHub\Fibonacci-Sequence-with-CSharp\Fibonacci-Sequence-with-CSharp\bin\Debug\net7.0\Fibonacci-Sequence-with-CSharp.dll
+C:\Users\yavuz\OneDrive\Belgeler\GitHub\Fibonacci-Sequence-with-CSharp\Fibonacci-Sequence-with-CSharp\bin\Debug\net7.0\Fibonacci-Sequence-with-CSharp.pdb
+C:\Users\yavuz\OneDrive\Belgeler\GitHub\Fibonacci-Sequence-with-CSharp\Fibonacci-Sequence-with-CSharp\obj\Debug\net7.0\Fibonacci-Sequence-with-CSharp.csproj.AssemblyReference.cache
+C:\Users\yavuz\OneDrive\Belgeler\GitHub\Fibonacci-Sequence-with-CSharp\Fibonacci-Sequence-with-CSharp\obj\Debug\net7.0\Fibonacci-Sequence-with-CSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yavuz\OneDrive\Belgeler\GitHub\Fibonacci-Sequence-with-CSharp\Fibonacci-Sequence-with-CSharp\obj\Debug\net7.0\Fibonacci-Sequence-with-CSharp.AssemblyInfoInputs.cache
+C:\Users\yavuz\OneDrive\Belgeler\GitHub\Fibonacci-Sequence-with-CSharp\Fibonacci-Sequence-with-CSharp\obj\Debug\net7.0\Fibonacci-Sequence-with-CSharp.AssemblyInfo.cs
+C:\Users\yavuz\OneDrive\Belgeler\GitHub\Fibonacci-Sequence-with-CSharp\Fibonacci-Sequence-with-CSharp\obj\Debug\net7.0\Fibonacci-Sequence-with-CSharp.csproj.CoreCompileInputs.cache
+C:\Users\yavuz\OneDrive\Belgeler\GitHub\Fibonacci-Sequence-with-CSharp\Fibonacci-Sequence-with-CSharp\obj\Debug\net7.0\Fibonacci-Sequence-with-CSharp.dll
+C:\Users\yavuz\OneDrive\Belgeler\GitHub\Fibonacci-Sequence-with-CSharp\Fibonacci-Sequence-with-CSharp\obj\Debug\net7.0\refint\Fibonacci-Sequence-with-CSharp.dll
+C:\Users\yavuz\OneDrive\Belgeler\GitHub\Fibonacci-Sequence-with-CSharp\Fibonacci-Sequence-with-CSharp\obj\Debug\net7.0\Fibonacci-Sequence-with-CSharp.pdb
+C:\Users\yavuz\OneDrive\Belgeler\GitHub\Fibonacci-Sequence-with-CSharp\Fibonacci-Sequence-with-CSharp\obj\Debug\net7.0\Fibonacci-Sequence-with-CSharp.genruntimeconfig.cache
+C:\Users\yavuz\OneDrive\Belgeler\GitHub\Fibonacci-Sequence-with-CSharp\Fibonacci-Sequence-with-CSharp\obj\Debug\net7.0\ref\Fibonacci-Sequence-with-CSharp.dll
